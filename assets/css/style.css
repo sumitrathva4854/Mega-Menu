@@ -29909,7 +29909,7 @@ button:focus {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
   }
-  .navbar-expand-sm .navbar-collapse .dropdown-menu .dropdown-item p{
+  .navbar-expand-sm .navbar-collapse .dropdown-menu p{
     color: var(--bs-white);
   }
   .navbar-expand-sm .navbar-collapse .nav-link,
@@ -30209,7 +30209,7 @@ button:focus {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
   }
-  .navbar-expand-md .navbar-collapse .dropdown-menu .dropdown-item p{
+  .navbar-expand-md .navbar-collapse .dropdown-menu p{
     color: var(--bs-white);
   }
   .navbar-expand-md .navbar-collapse .nav-link,
@@ -30464,7 +30464,7 @@ button:focus {
   .navbar-expand-md .mega-menu-dark .dropdown-item {
     color: var(--bs-white);
   }
-  .navbar-expand-md .mega-menu-dark .dropdown-item p{
+  .navbar-expand-md .mega-menu-dark p{
     color: var(--bs-white);
   }
   .navbar-expand-md .mega-menu-dark .dropdown-item:hover,
@@ -30512,7 +30512,7 @@ button:focus {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
   }
-  .navbar-expand-lg .navbar-collapse .dropdown-menu .dropdown-itemc p {
+  .navbar-expand-lg .navbar-collapse .dropdown-menu p{
     color: var(--bs-white);
   }
   .navbar-expand-lg .navbar-collapse .nav-link,
@@ -30767,7 +30767,7 @@ button:focus {
   .navbar-expand-lg .mega-menu-dark .dropdown-item {
     color: var(--bs-white);
   }
-  .navbar-expand-lg .mega-menu-dark .dropdown-item p {
+  .navbar-expand-lg .mega-menu-dark p{
     color: var(--bs-white);
   }
   .navbar-expand-lg .mega-menu-dark .dropdown-item:hover,
